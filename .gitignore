@@ -1,0 +1,7 @@
+pipeline_output/
+mini_gpt_assignment/runs/
+*.pt
+*.jsonl
+mini_gpt_assignment/mini_gpt_assignment.zip
+mini_gpt_assignment/__pycache__/
+.DS_Store

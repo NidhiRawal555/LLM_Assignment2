@@ -1,0 +1,7 @@
+{
+  "tokenizer": "gpt2",
+  "vocab_size": 50257,
+  "dtype": "uint32",
+  "n_docs": 265775,
+  "n_tokens": 225962938
+}

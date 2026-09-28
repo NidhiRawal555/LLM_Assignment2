@@ -1,0 +1,14 @@
+{
+  "encyclopedic": {
+    "path": "pipeline_output/raw/encyclopedic.jsonl",
+    "bytes": 357914679
+  },
+  "news": {
+    "path": "pipeline_output/raw/news.jsonl",
+    "bytes": 357916391
+  },
+  "web": {
+    "path": "pipeline_output/raw/web.jsonl",
+    "bytes": 357917039
+  }
+}
